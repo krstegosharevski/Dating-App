@@ -1,0 +1,23 @@
+.card{
+    border: none;
+}
+
+.chat {
+    /* max-height: 500px; /* Примерен максимален височина за да се прикажат пораките */
+    /*overflow-y: auto;*/
+    /*overflow: scroll; */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.chat li{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px dotted #b3a9a9;
+}
+
+.rounded-circle{
+    max-height: 50px;
+    
+}
